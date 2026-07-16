@@ -1,7 +1,7 @@
 # Research Demo
 
 This folder is a short walk through how I actually work, using the single most
-conclusive test from each of four projects. I'm not dumping every run here (yet), just the
+conclusive test from each of four personal Quantum Computing research projects. I'm not dumping every run here (yet), just the
 one experiment per project that settled the question, plus the reasoning that got me to
 it and what I concluded. The code for each is in this folder and runs on its own.
 
