@@ -1,4 +1,4 @@
-# Research Demo — four projects, one way of thinking
+# Research Demo
 
 This folder is a short walk through how I actually work, using the single most
 conclusive test from each of four projects. I'm not dumping every run here (yet), just the
